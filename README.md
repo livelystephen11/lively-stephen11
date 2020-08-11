@@ -14,3 +14,8 @@ why python is cool
 ---
 its smooth and it works
 and now i am coding it in here poggers
+
+why this is making sense
+---
+i don't know but its cool only bad thing is its white
+i cant change it from white to black so my eyes are killing me
