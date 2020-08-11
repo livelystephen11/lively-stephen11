@@ -34,5 +34,3 @@ All set
 You now know your way around that it gets harder but this is just the basics and with this you can do what ever you want.
 
 So enjoy.
-
-nice
