@@ -34,3 +34,7 @@ All set
 You now know your way around that it gets harder but this is just the basics and with this you can do what ever you want.
 
 So enjoy.
+
+Another thing to note
+---
+is that it somehow bypasses the det interenet bot so its useable at school which is great to do to work it, so yeah that's pretty good.
