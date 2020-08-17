@@ -38,5 +38,3 @@ So enjoy.
 Another thing to note
 ---
 is that it somehow bypasses the det interenet bot so its useable at school which is great to do to work it, so yeah that's pretty good.
-
-[print] hello world
