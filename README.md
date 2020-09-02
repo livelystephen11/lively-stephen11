@@ -1,7 +1,7 @@
 # lively-stephen11
 Intro to github
 ---
-Hello, well to get started a account might help but i am gonna show you how to do stuff lmao.
+Hello, well to get started a account might help but I am gonna show you how to do stuff lmao.
 
 How to edit a file
 ---
